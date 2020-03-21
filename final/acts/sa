@@ -1,0 +1,5 @@
+session = boto3.Session(
+    aws_access_key_id="AKIAIGEXMCD4I353E5BA",
+    aws_secret_access_key="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",
+    region_name="us-east-2"
+)
