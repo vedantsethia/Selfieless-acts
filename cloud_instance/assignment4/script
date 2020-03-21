@@ -1,0 +1,4 @@
+curl -v localhost:80/api/v1/categories
+curl -v localhost:80/api/v1/categories
+curl -v localhost:80/api/v1/categories
+
